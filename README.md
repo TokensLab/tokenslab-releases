@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tokenslab.tech/assets/images/logo-hex.png" width="72" height="72" alt="TokensLab">
+  <img src="assets/icon.png" width="96" height="96" alt="TokensLab">
 </p>
 
 <h1 align="center">TokensLab</h1>
