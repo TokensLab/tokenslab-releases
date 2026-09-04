@@ -92,7 +92,10 @@ Same 66 MB of real Claude Code logs: naive arithmetic **$15,680.35** → cache-a
 
 ## Company
 
-TokensLab is an independent product by [Lucas Barros](https://github.com/lucasbarroos). Site: [tokenslab.tech](https://tokenslab.tech) · mail: [hello@tokenslab.tech](mailto:hello@tokenslab.tech)
+TokensLab. Site: [tokenslab.tech](https://tokenslab.tech) · mail: [hello@tokenslab.tech](mailto:hello@tokenslab.tech)
+
+<!--
+TokensLab is an independent product by [Lucas Barros](https://github.com/lucasbarroos).
 
 <table>
   <tr>
@@ -105,6 +108,7 @@ TokensLab is an independent product by [Lucas Barros](https://github.com/lucasba
     </td>
   </tr>
 </table>
+-->
 
 Beta reports: open an [issue](https://github.com/TokensLab/tokenslab-releases/issues) or write to [hello@tokenslab.tech](mailto:hello@tokenslab.tech).
 
